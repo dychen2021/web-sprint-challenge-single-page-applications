@@ -1,0 +1,58 @@
+
+ #pizza-form{
+    /* display: flex; */
+    text-align: center;
+    border:2px solid black;
+    padding: 30px;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-top: 2%;
+    border-radius: 1%;
+    
+    background-color: white;
+    max-width: 33%;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: center; */
+    font-size: 2rem;
+    color: black;
+ }
+
+ #lab{
+    margin-top:1%;
+    /* color:green; */
+    background-color: lightgray;
+ }
+ h4{
+    margin-top:0%;
+    margin-bottom:1%;
+    font-size: 1rem;
+    color:orchid;
+    background-color: lightgray;
+ }
+
+ #size-dropdown{
+    display:flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+ }
+
+ #sauce{
+    font-size: 1.2rem;
+ }
+
+ #name-input{
+    font-size: 1.2rem;
+    margin-bottom: 0%;
+ }
+
+ #order-button{
+    width: 100%;
+    background-color: aqua;
+    border-width: 0px;
+ }
+  
+
+  
